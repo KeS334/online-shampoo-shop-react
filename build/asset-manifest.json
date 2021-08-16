@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b104dec1.chunk.css",
+    "main.js": "/static/js/main.c05ce333.chunk.js",
+    "main.js.map": "/static/js/main.c05ce333.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.259050ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.259050ec.js.map",
+    "static/js/2.1a13f547.chunk.js": "/static/js/2.1a13f547.chunk.js",
+    "static/js/2.1a13f547.chunk.js.map": "/static/js/2.1a13f547.chunk.js.map",
+    "static/js/3.d1be7202.chunk.js": "/static/js/3.d1be7202.chunk.js",
+    "static/js/3.d1be7202.chunk.js.map": "/static/js/3.d1be7202.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b104dec1.chunk.css.map": "/static/css/main.b104dec1.chunk.css.map",
+    "static/js/2.1a13f547.chunk.js.LICENSE.txt": "/static/js/2.1a13f547.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/static/media/tick-icon.a1a7fcc0.svg",
+    "static/media/shampoo1.5ed69a10.png": "/static/media/shampoo1.5ed69a10.png",
+    "static/media/shampoo1_zoomIn.d89d396c.png": "/static/media/shampoo1_zoomIn.d89d396c.png",
+    "static/media/shampoo2.ac841b3e.png": "/static/media/shampoo2.ac841b3e.png",
+    "static/media/shampoo2_zoomIn.fdabaee1.png": "/static/media/shampoo2_zoomIn.fdabaee1.png",
+    "static/media/shampoo3.48939226.png": "/static/media/shampoo3.48939226.png",
+    "static/media/shampoo3_zoomIn.5bc14cd1.png": "/static/media/shampoo3_zoomIn.5bc14cd1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.259050ec.js",
+    "static/js/2.1a13f547.chunk.js",
+    "static/css/main.b104dec1.chunk.css",
+    "static/js/main.c05ce333.chunk.js"
+  ]
+}
